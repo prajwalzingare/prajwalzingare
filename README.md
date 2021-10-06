@@ -1,9 +1,8 @@
 
 -👋 Hi, I’m prajwal
+-👀 I’m interested in...Web-Development and MERN Stack
 
--👀 I’m interested in ... web-devlopment
-
--🌱 I’m currently learning ... full Stack Developmet course at @udemy
+-🌱 I’m currently learning ... Complete Web-Development at @udemy
 
 -📫 How to reach me ... you can mail me at prajwalzingre@gmail.com
 
