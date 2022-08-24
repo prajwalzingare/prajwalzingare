@@ -1,5 +1,7 @@
+<h1 align='center'>
+ 👋 Hi,there everyone I’m Prajwal
+</h1>
 
-# 👋 Hi,there everyone I’m Prajwal
 ## :sunglasses: I’m interested in...**Web-Development and MERN Stack.**
 ## 🌱 I’m currently learning ... Complete Web-Development at [@ineuron](https://ineuron.ai/ "LCO HOME").
  
